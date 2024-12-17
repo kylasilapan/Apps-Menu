@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Menu</string>
+    <string name="app_name">Apps Menu</string>
     <string name="long_press_me_for_contextual_menu">Long press me for Contextual Menu</string>
     <string name="settings">Settings</string>
     <string name="favorites">Favorites</string>
